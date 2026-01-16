@@ -10,6 +10,7 @@ function App() {
       <div className='py-8 bg-[#050505]'>
         <div className='container mx-auto text-center max-sm:px-3'>
           <h1 className='text-3xl font-bold text-[#ffffff] uppercase pb-5 sticky top-0 max-sm:py-3 bg-[#050505] z-20'>Our Talented <span className='text-[#3bebf1]'>Team</span> </h1>
+
           <div className='w-[full] rounded-xl grid max-sm:grid-cols-1 max-md:grid-cols-2 max-lg:grid-cols-3 grid-cols-4 gap-4'>
 
             {/* Rendering Card Data using seprate json file */}
