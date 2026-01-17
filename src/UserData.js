@@ -1,7 +1,19 @@
-[
+import user1 from './assets/user-1.jpg';
+import user2 from './assets/user-2.jpg';
+import user3 from './assets/user-3.jpg';
+import user4 from './assets/user-4.jpg';
+import user5 from './assets/user-5.jpg';
+import user6 from './assets/user-6.jpg';
+import user7 from './assets/user-7.jpg';
+import user8 from './assets/user-8.jpg';
+
+
+
+
+export const userData = [
     {
         "id": "1",
-        "userImg": "./src/assets/user-1.jpg",
+        "userImg": user1,
         "name": "Harjit Kumar",
         "designation": "Frontend Developer",
         "countLink": "20.3k",
@@ -10,7 +22,7 @@
     },
     {
         "id": "2",
-        "userImg": "./src/assets/user-2.jpg",
+        "userImg": user2,
         "name": "Gourav Kalsi",
         "designation": "Sr. Graphic Designer",
         "countLink": "25.3k",
@@ -19,7 +31,7 @@
     },
     {
         "id": "3",
-        "userImg": "./src/assets/user-3.jpg",
+        "userImg": user3,
         "name": "Sahil Kalsi",
         "designation": "Pharmacist",
         "countLink": "31.5k",
@@ -28,7 +40,7 @@
     },
     {
         "id": "4",
-        "userImg": "./src/assets/user-4.jpg",
+        "userImg": user4,
         "name": "Chandan Jassi",
         "designation": "Marketing Specialist",
         "countLink": "35.6k",
@@ -37,7 +49,7 @@
     },
     {
         "id": "5",
-        "userImg": "./src/assets/user-5.jpg",
+        "userImg": user5,
         "name": "Rajeshwar Summan",
         "designation": "Customer Support Executive",
         "countLink": "22.1k",
@@ -46,7 +58,7 @@
     },
     {
         "id": "6",
-        "userImg": "./src/assets/user-6.jpg",
+        "userImg": user6,
         "name": "Anil Summan",
         "designation": "Bank Sales Executive",
         "countLink": "24.3k",
@@ -55,7 +67,7 @@
     },
     {
         "id": "7",
-        "userImg": "./src/assets/user-7.jpg",
+        "userImg": user7,
         "name": "Manjinder Singh",
         "designation": "Import/Export Manager",
         "countLink": "34.9k",
@@ -64,7 +76,7 @@
     },
     {
         "id": "8",
-        "userImg": "./src/assets/user-8.jpg",
+        "userImg": user8,
         "name": "Parminder Guru",
         "designation": "Software Developer",
         "countLink": "18.7k",

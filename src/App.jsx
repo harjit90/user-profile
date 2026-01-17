@@ -1,5 +1,5 @@
 import './App.css'
-import UserData from "./UserData.json"
+import { userData } from "./UserData.js"
 import UserCard from "./components/UserCard";
 
 
@@ -16,7 +16,7 @@ function App() {
             {/* Rendering Card Data using seprate json file */}
 
             {
-              UserData.map(function (userData) {
+              userData.map((userData) => {
                 return (
                   <UserCard
                     key={userData.id}
