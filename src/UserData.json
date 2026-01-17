@@ -1,84 +1,74 @@
-
 [
     {
-        "id" : "1",
-        "userImg" : "./src/assets/images/user-1.jpg",
-        "name" : "Harjit Kumar",
-        "designation" : "Frontend Developer",
-        "countLink" : "20.3k",
-        "commentLink" : "5.1k",
-        "shareLink" : "15.2k"
-
+        "id": "1",
+        "userImg": "./src/assets/user-1.jpg",
+        "name": "Harjit Kumar",
+        "designation": "Frontend Developer",
+        "countLink": "20.3k",
+        "commentLink": "5.1k",
+        "shareLink": "15.2k"
     },
     {
-        "id" : "2",
-        "userImg" : "./src/assets/images/user-2.jpg",
-        "name" : "Gourav Kalsi",
-        "designation" : "Sr. Graphic Designer",
-        "countLink" : "25.3k",
-        "commentLink" : "8.2k",
-        "shareLink" : "10.1k"
-
+        "id": "2",
+        "userImg": "./src/assets/user-2.jpg",
+        "name": "Gourav Kalsi",
+        "designation": "Sr. Graphic Designer",
+        "countLink": "25.3k",
+        "commentLink": "8.2k",
+        "shareLink": "10.1k"
     },
     {
-        "id" : "3",
-        "userImg" : "./src/assets/images/user-3.jpg",
-        "name" : "Sahil Kalsi",
-        "designation" : "Pharmacist",
-        "countLink" : "31.5k",
-        "commentLink" : "3.6k",
-        "shareLink" : "18.6k"
-
+        "id": "3",
+        "userImg": "./src/assets/user-3.jpg",
+        "name": "Sahil Kalsi",
+        "designation": "Pharmacist",
+        "countLink": "31.5k",
+        "commentLink": "3.6k",
+        "shareLink": "18.6k"
     },
     {
-        "id" : "4",
-        "userImg" : "./src/assets/images/user-4.jpg",
-        "name" : "Chandan Jassi",
-        "designation" : "Marketing Specialist",
-        "countLink" : "35.6k",
-        "commentLink" : "2.3k",
-        "shareLink" : "9.2k"
-
+        "id": "4",
+        "userImg": "./src/assets/user-4.jpg",
+        "name": "Chandan Jassi",
+        "designation": "Marketing Specialist",
+        "countLink": "35.6k",
+        "commentLink": "2.3k",
+        "shareLink": "9.2k"
     },
     {
-        "id" : "5",
-        "userImg" : "./src/assets/images/user-5.jpg",
-        "name" : "Rajeshwar Summan",
-        "designation" : "Customer Support Executive",
-        "countLink" : "22.1k",
-        "commentLink" : "4.6k",
-        "shareLink" : "11.5k"
-
+        "id": "5",
+        "userImg": "./src/assets/user-5.jpg",
+        "name": "Rajeshwar Summan",
+        "designation": "Customer Support Executive",
+        "countLink": "22.1k",
+        "commentLink": "4.6k",
+        "shareLink": "11.5k"
     },
     {
-        "id" : "6",
-        "userImg" : "./src/assets/images/user-6.jpg",
-        "name" : "Anil Summan",
-        "designation" : "Bank Sales Executive",
-        "countLink" : "24.3k",
-        "commentLink" : "2.6k",
-        "shareLink" : "16.2k"
-
+        "id": "6",
+        "userImg": "./src/assets/user-6.jpg",
+        "name": "Anil Summan",
+        "designation": "Bank Sales Executive",
+        "countLink": "24.3k",
+        "commentLink": "2.6k",
+        "shareLink": "16.2k"
     },
     {
-        "id" : "7",
-        "userImg" : "./src/assets/images/user-7.jpg",
-        "name" : "Manjinder Singh",
-        "designation" : "Import/Export Manager",
-        "countLink" : "34.9k",
-        "commentLink" : "6.5k",
-        "shareLink" : "20.8k"
-
+        "id": "7",
+        "userImg": "./src/assets/user-7.jpg",
+        "name": "Manjinder Singh",
+        "designation": "Import/Export Manager",
+        "countLink": "34.9k",
+        "commentLink": "6.5k",
+        "shareLink": "20.8k"
     },
     {
-        "id" : "8",
-        "userImg" : "./src/assets/images/user-8.jpg",
-        "name" : "Parminder Guru",
-        "designation" : "Software Developer",
-        "countLink" : "18.7k",
-        "commentLink" : "9.6k",
-        "shareLink" : "17.4k"
-
+        "id": "8",
+        "userImg": "./src/assets/user-8.jpg",
+        "name": "Parminder Guru",
+        "designation": "Software Developer",
+        "countLink": "18.7k",
+        "commentLink": "9.6k",
+        "shareLink": "17.4k"
     }
-    
 ]
